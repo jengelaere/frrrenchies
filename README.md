@@ -94,6 +94,7 @@ Autres ressources pédagogiques :
 * [Rgeomatique](https://rgeomatic.hypotheses.org/), R pour les travaux de géomatique  
 * [Dacta](http://www.dacta.fr/blog/), qui a pris le relais du blog de [superstaticienne](https://superstatisticienne.fr/)- Statistiques, R et paillettes…  
  * [ThinkR](https://thinkr.fr/le-blog/), le blog d'une équipe qui pense en R, on y retrouve plusieurs cheatsheets en français dans le texte, parmis d'autres choses tout aussi précieuses  
+ * [ArData](https://www.ardata.fr/post/), un blog tout en français dont on aurait tort de se priver !
  
 
 
