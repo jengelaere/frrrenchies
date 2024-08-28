@@ -18,7 +18,8 @@ N'hésitez pas à contribuer !
 * [DoReMIFaSol](https://inseefrlab.github.io/DoReMIFaSol) par [@pierre-lamarche](https://github.com/pierre-lamarche) : récupérer et utiliser les données de l'Insee avec R
 * [entreprises](https://github.com/pachevalier/entreprises) par @pachevalier : accéder aux données des entreprises 
 * [fodr](https://github.com/Tutuchan/fodr) par @Tutuchan : un client pour accéder à l'API d'opendatasoft et récupérer les données de différents portails open data français 
-* [gouvdown](https://github.com/spyrales/gouvdown) par @RLesur, @tvroylandt, @MaelTheuliere, implémentation de la marque Etat pour ggplot et Rmarkdown.
+* [gouvdown](https://github.com/spyrales/gouvdown) par @RLesur, @tvroylandt, @MaelTheuliere, implémentation de la marque Etat ([DSFR](https://www.systeme-de-design.gouv.fr/)) pour ggplot et Rmarkdown.
+* [happign](https://paul-carteron.github.io/happign/) : facilite l'utilisation des Web Services et API de l'IGN (téléchargement de couches vecteur via WFS et l'APIcarto et de couches raster via WMS). 
 * [insee](https://inseefr.github.io/R-Insee-Data/) par @[hadrilec](https://github.com/hadrilec) : accéder à la base de données macroéconomiques de l'Insee
 * [inseeLocalData](https://github.com/InseeFrLab/inseeLocalData) : client R pour l'[API Données Locales](https://api.insee.fr/catalogue/site/themes/wso2/subthemes/insee/pages/item-info.jag?name=DonneesLocales&version=V0.1&provider=insee) de l'Insee.
 * [legislatives2017](https://github.com/ThinkR-open/legislatives2017) par @ThinkR-open : les données des élections législatives dans un package R
@@ -28,8 +29,10 @@ N'hésitez pas à contribuer !
 * [pmeasyr](https://github.com/IM-APHP/pmeasyr) par  @GuillaumePressiat : lire les données du PMSI dans R
 * [prenoms](https://github.com/ThinkR-open/prenoms) par @ThinkR-open : les [données des prénoms](https://www.data.gouv.fr/fr/datasets/fichier-des-prenoms-edition-2016/) dans un package R
 * [propre‧rpls](https://gitlab.com/rdes_dreal/propre.rpls) : un package R pour automatiser la production des publications sur le parc social des Dreals
-* [proustr](https://github.com/ColinFay/proustr) par @ColinFay :  outils pour le traitement du langage en français, et corpus de textes de Proust.
+* [proustr](https://github.com/ColinFay/proustr) par @ColinFay : outils pour le traitement du langage en français, et corpus de textes de Proust.
 * [rgeoapi](https://github.com/ColinFay/rgeoapi) par @ColinFay : un client R pour l'[API Géo](https://api.gouv.fr/api/api-geo.html)
+* [r.apifoncier](https://rcadot.github.io/r.apifoncier/) : un package R qui propose une boîte à outils pour interagir plus facilement avec [l’API Données foncières du Cerema](https://apidf-preprod.cerema.fr/).
+* [shinygouv](https://spyrales.github.io/shinygouv/) : un package R qui introduit le Système de Design de l'Etat français ([DSFR](https://www.systeme-de-design.gouv.fr/)) dans vos applications Shiny.
 * [vacancesscolr](https://github.com/Tutuchan/vacancesscolr) par @Tutuchan : les [données des vacances scolaires](https://www.data.gouv.fr/fr/datasets/vacances-scolaires-par-zones/) dans R
 
 ## :books: Ressources pédagogiques :books:
